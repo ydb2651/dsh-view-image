@@ -1,0 +1,4 @@
+# dsh-view-image bundle patch: inserts its plugin row into the web profile.
+- insert:
+    - id: view-image
+      name: 'dsh-view-image'
